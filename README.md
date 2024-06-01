@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory serves as a project for UBIC's Workshop Series, SP24
+This directory serves as a project for UBIC's Workshop Series, SP24. We focus on dynamic programming and alignment techniques.
 
 ## Project Details
 
